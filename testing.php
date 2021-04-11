@@ -1,4 +1,5 @@
 <?php
+echo 'tester';
 /**
  * @author Amasty Team is for php developer
  * @copyright Copyright (c) 2015 Amasty (http://www.amasty.com)
